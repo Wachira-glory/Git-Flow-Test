@@ -1,0 +1,22 @@
+.navbar{
+    margin-left: 20%;
+    margin-top: 4%;
+   font-size: 100%;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav2{
+    width: 11%;
+}
+#requ{
+    color:white;
+    float: right;
+    margin-top: -3%;
+    width: 9%;
+    height: 18px;
+    border-radius: 31px;
+    padding: 16px 16px 28px 16px;
+    margin-right: 25%;
+    text-align: center;
+    overflow: hidden;
+    background-color:blue ;
+}
